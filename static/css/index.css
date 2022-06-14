@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni&display=swap');
+
+footer {
+    background-color: crimson;
+    color: wheat;
+    text-align: center;
+}
+.center p{
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: 'Libre Bodoni', serif;
+    font-size: 25px;
+}
+
+h2 p{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
